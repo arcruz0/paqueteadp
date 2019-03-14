@@ -1,0 +1,20 @@
+Package: libroadp
+Title: Material de apoyo para el libro "Analizar Datos Políticos"
+Version: 0.1
+Authors@R: c(
+    person("Andrés", "Cruz Labrín", email = "arcruz@uc.cl", role = c("aut", "cre")),
+    person("Francisco", "Urdinez", email = "furdinez@uc.cl", role = "aut"))
+Description: El paquete contiene funciones y datos utilizados en el libro 
+    "Analizar Datos Políticos".
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+        readr
+Imports:
+        texreg,
+        dplyr,
+        broom,
+        magrittr
+RoxygenNote: 6.1.1
+Language: EN, ES

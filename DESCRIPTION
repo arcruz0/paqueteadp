@@ -1,4 +1,4 @@
-Package: libroadp
+Package: paqueteadp
 Title: Material de apoyo para el libro "Analizar Datos Políticos"
 Version: 0.1
 Authors@R: c(

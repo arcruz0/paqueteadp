@@ -90,3 +90,13 @@ NULL
 #' @references Freire, D. (2018). Evaluating the effect of homicide prevention strategies in Sao Paulo, Brazil: A synthetic control approach. Latin American Research Review, 53(2).
 #' @keywords data
 NULL
+
+#' Discursos de Allende
+#'
+#' discursos públicos de Salvador Allende entre finales de 1969 y el 11 de septiembre de 1973.
+#'
+#' @name discursos_allende
+#' @docType data
+#' @references \url{https://www.marxists.org/espanol/allende/index.htm}
+#' @keywords data
+NULL

@@ -100,3 +100,36 @@ NULL
 #' @references \url{https://www.marxists.org/espanol/allende/index.htm}
 #' @keywords data
 NULL
+
+#' Aprobación presidencial
+#'
+#' Aprobación presidencial por trimestre, 2000-2014, compilada por Catherine Reyes-Housholder. Se suman algunas variables del proyecto Quality of Government (2017).
+#'
+#' @name aprob_presidencial
+#' @docType data
+#' @references Reyes-Housholder, C. (Forthcoming). A Theory of Gender’s Role on Presidential Approval Ratings in Corrupt Times. Political Research Quarterly.
+#' @references \url{https://qog.pol.gu.se/data}
+#' @keywords data
+NULL
+
+#' Aprobación presidencial (wide)
+#'
+#' Aprobación presidencial por trimestre, 2000-2014, compilada por Catherine Reyes-Housholder. Se suman algunas variables del proyecto Quality of Government (2017). Formato wide.
+#'
+#' @name aprob_presidencial_wide
+#' @docType data
+#' @references Reyes-Housholder, C. (Forthcoming). A Theory of Gender’s Role on Presidential Approval Ratings in Corrupt Times. Political Research Quarterly.
+#' @references \url{https://qog.pol.gu.se/data}
+#' @keywords data
+NULL
+
+#' Aprobación presidencial (wide 2)
+#'
+#' Aprobación presidencial por trimestre, 2000-2014, compilada por Catherine Reyes-Housholder. Se suman algunas variables del proyecto Quality of Government (2017). Formato wide (2).
+#'
+#' @name aprob_presidencial_wide2
+#' @docType data
+#' @references Reyes-Housholder, C. (Forthcoming). A Theory of Gender’s Role on Presidential Approval Ratings in Corrupt Times. Political Research Quarterly.
+#' @references \url{https://qog.pol.gu.se/data}
+#' @keywords data
+NULL

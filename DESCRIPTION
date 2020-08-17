@@ -1,6 +1,6 @@
 Package: paqueteadp
 Title: Material de apoyo para el libro "Analizar Datos Políticos"
-Version: 0.2
+Version: 1.0
 Authors@R: c(
     person("Andrés", "Cruz Labrín", email = "arcruz@uc.cl", role = c("aut", "cre")),
     person("Francisco", "Urdinez", email = "furdinez@uc.cl", role = "aut"))
@@ -16,5 +16,5 @@ Imports:
         dplyr,
         broom,
         magrittr
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Language: EN, ES

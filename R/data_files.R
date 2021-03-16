@@ -197,3 +197,13 @@ NULL
 #' @references \url{https://tratados.un.org/}
 #' @keywords data
 NULL
+
+#' Latinobarómetro
+#'
+#' Subsección de datos de encuestados por Latinobarómetro en el año 2018.
+#'
+#' @name latinobarometro
+#' @docType data
+#' @references Latinobarómetro (2018). Latinobarómetro: Banco de datos. \url{https://www.latinobarometro.org/latContents.jsp}
+#' @keywords data
+NULL
